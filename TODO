@@ -1,0 +1,1 @@
+1.使用HookStep时，点击左侧Step菜单，componentWillReceiveProps会执行两次，ClassStep没有这个问题
