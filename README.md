@@ -1,4 +1,6 @@
-# p-components
+# codesandbox 项目 p-components  
+
+# 组件目录  
 
 1.test-mask 接入antd input  
 2.全选功能的antd table  
